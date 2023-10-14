@@ -1,0 +1,14 @@
+C:\Users\Usuário\Documents\projetos\screenSoundC#\screenSound\bin\Debug\net7.0\screenSound.exe
+C:\Users\Usuário\Documents\projetos\screenSoundC#\screenSound\bin\Debug\net7.0\screenSound.deps.json
+C:\Users\Usuário\Documents\projetos\screenSoundC#\screenSound\bin\Debug\net7.0\screenSound.runtimeconfig.json
+C:\Users\Usuário\Documents\projetos\screenSoundC#\screenSound\bin\Debug\net7.0\screenSound.dll
+C:\Users\Usuário\Documents\projetos\screenSoundC#\screenSound\bin\Debug\net7.0\screenSound.pdb
+C:\Users\Usuário\Documents\projetos\screenSoundC#\screenSound\obj\Debug\net7.0\screenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\projetos\screenSoundC#\screenSound\obj\Debug\net7.0\screenSound.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\projetos\screenSoundC#\screenSound\obj\Debug\net7.0\screenSound.AssemblyInfo.cs
+C:\Users\Usuário\Documents\projetos\screenSoundC#\screenSound\obj\Debug\net7.0\screenSound.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\projetos\screenSoundC#\screenSound\obj\Debug\net7.0\screenSound.dll
+C:\Users\Usuário\Documents\projetos\screenSoundC#\screenSound\obj\Debug\net7.0\refint\screenSound.dll
+C:\Users\Usuário\Documents\projetos\screenSoundC#\screenSound\obj\Debug\net7.0\screenSound.pdb
+C:\Users\Usuário\Documents\projetos\screenSoundC#\screenSound\obj\Debug\net7.0\screenSound.genruntimeconfig.cache
+C:\Users\Usuário\Documents\projetos\screenSoundC#\screenSound\obj\Debug\net7.0\ref\screenSound.dll
