@@ -91,13 +91,3 @@ void MostrarBandasRegistradas()
     ExibirOpcoesDoMenu();
 
 }
-void chupa()
-{
-    foreach (var item in listaDasBandas)
-    {
-        ctro
-    }
-}
-
-foreach
-ExibirOpcoesDoMenu();
